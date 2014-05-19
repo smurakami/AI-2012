@@ -1,9 +1,0 @@
-#include <stdio.h>
-#include <sys/time.h>
-
-//現在時間を返す関数
-double currentTime(){
-    struct timeval tp;
-    gettimeofday(&tp,NULL);
-    return tp.tv_sec + tp.tv_usec * 1.0E-6;
-}

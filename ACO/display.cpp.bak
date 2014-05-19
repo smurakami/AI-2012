@@ -1,0 +1,90 @@
+#include "header.h"
+
+/** veltex **/
+double vertex[N*N][N][2];
+
+/** figure **/
+void putLine(int i1, int j1, int i2, int j2)
+{
+  glBegin(GL_LINES);
+
+  glVertex2dv(vertex[i1][j1]);
+  glVertex2dv(vertex[i2][j2]);
+  
+  glEnd();
+}
+
+void putEdge(int k, int i, int j)
+{
+  putLine(i, k, j, k+1);
+}
+
+double points[N*N][N];//テスト用
+
+void putPoint(int i, int j)
+{
+  glBegin(GL_POINTS);
+
+  glVertex2dv(vertex[i][j]);
+  
+  glEnd();
+
+}
+
+/** GUI **/
+
+void display(void)
+{
+  glClear(GL_COLOR_BUFFER_BIT);
+  glColor3d(0.0, 1.0, 0.0);
+
+  for(int i = 0;  i < N*N; i++){
+    for(int j = 0;  j < N; j++){
+      putPoint(i, j);
+    }
+  }
+
+  for(int k = 0; k < N - 1; k++){
+    for(int i = 0;  i < N*N; i++){
+      for(int j = 0;  j < N*N; j++){
+        if((i % 8 == 0) && (j % 8 == 0)) putEdge(k, i, j);
+      }
+    }
+  }
+  
+  
+  glFlush();
+}
+
+void keyboard(unsigned char key, int x, int y)
+{
+
+  static int i, j;
+  switch (key) {
+  case 'q':
+  case 'Q':
+  case '\033':  /* '\033' は ESC の ASCII コード */
+    exit(0);
+    break;
+  default:
+    break;
+  }
+}
+
+void init(void)
+{
+  glClearColor(0.0, 0.0, 0.0, 1.0);
+}
+
+void initVertex(void)
+{
+  double dx = 2.0 / (N + 2);
+  double dy = 2.0 / (N*N + 2);
+  for(int i = 0;  i < N*N; i++){
+    for(int j = 0;  j < N; j++){
+      vertex[i][j][0] =  -1.0 + dx + dx * j;
+      vertex[i][j][1] = 1.0 - dy - dy * i;
+    }
+  }
+
+}

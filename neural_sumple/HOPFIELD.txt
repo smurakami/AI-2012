@@ -1,0 +1,480 @@
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+Energy(0)=-1794
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+Energy(100)=-1794
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+Final Energy(200)=-1794
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+OOOOOOOOO 
+OOOOOOOOOO
+OO      OO
+OO     OO 
+OOOOOOOO  
+OOOOOOO   
+OO     OO 
+OO      OO
+OOOO  OOOO
+OOOOOOOOO 
+
+Energy(0)=-2241
+OOOOOOOOO 
+OOOOOOOOOO
+OO      OO
+OO     OO 
+OOOOOOOO  
+OOOOOOO   
+OO     OO 
+OO      OO
+OOOO  OOOO
+OOOOOOOOO 
+
+Energy(100)=-2241
+OOOOOOOOO 
+OOOOOOOOOO
+OO      OO
+OO     OO 
+OOOOOOOO  
+OOOOOOO   
+OO     OO 
+OO      OO
+OOOO  OOOO
+OOOOOOOOO 
+
+Final Energy(200)=-2241
+OOOOOOOOO 
+OOOOOOOOOO
+OO      OO
+OO     OO 
+OOOOOOOO  
+OOOOOOO   
+OO     OO 
+OO      OO
+OOOO  OOOO
+OOOOOOOOO 
+
+OOOOOOOOO 
+OOOOOOOOOO
+OO      OO
+OO     OO 
+OOOOOOOO  
+OOOOOOO   
+OO     OO 
+OO      OO
+OOOO  OOOO
+OOOOOOOOO 
+
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+Energy(0)=-1096
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+Energy(100)=-1096
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+Final Energy(200)=-1096
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+
+Energy(0)=-820
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+
+Energy(100)=-1459
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOO OO
+OO OOO O  
+
+Energy(200)=-1641
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOO OO
+OOOOOOOO O
+
+Energy(300)=-1794
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+Energy(400)=-1794
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+Final Energy(493)=-1794
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+OOOOOOOOOO
+OOOOOOOOOO
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+    OO    
+OOOOOOOOOO
+OOOOOOOOOO
+
+          
+    OO    
+   OOOO   
+  OO  OO  
+  OOOOOO  
+ OOO  OOO 
+ OO    OO 
+ OO    OO 
+ OO    OO 
+          
+
+Energy(0)=-435
+          
+    OO    
+   OOOO   
+  OO  OO  
+  OOOOOO  
+ OOO  OOO 
+ OO    OO 
+ OO    OO 
+ OO    OO 
+          
+
+Energy(100)=-723
+     O    
+   OOOO   
+  OOO OO  
+  OO  OO  
+  OOOOOO  
+ OOO  OOO 
+ OO    OO 
+ OO    OO 
+ OO     O 
+O       O 
+
+Energy(200)=-894
+     O    
+   OOOO   
+  OOO OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+ OO     OO
+OO      OO
+
+Energy(300)=-976
+    OO    
+   OOOO   
+  OOO OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+ O      OO
+OO      OO
+
+Energy(400)=-1026
+    OO    
+   OOOO   
+  OOO OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+Energy(500)=-1096
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+Energy(600)=-1096
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+Final Energy(698)=-1096
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+    OO    
+   OOOO   
+  OO  OO  
+  OO  OO  
+  OOOOOO  
+ OOOOOOOO 
+ OO    OO 
+ OO    OO 
+OO      OO
+OO      OO
+
+OOOOOOOOOO
+OOOO  OOOO
+OOO    OOO
+OO  OO  OO
+OO      OO
+O   OO   O
+O  OOOO  O
+O  OOOO  O
+O  OOOO  O
+OOOOOOOOOO
+
+Energy(0)=-1073
+OOOOOOOOOO
+OOOO  OOOO
+OOO    OOO
+OO  OO  OO
+OO      OO
+O   OO   O
+O  OOOO  O
+O  OOOO  O
+O  OOOO  O
+OOOOOOOOOO
+
+Energy(100)=-1631
+OOOO OOOOO
+OOO    OOO
+OO  OO  OO
+OO  OO  OO
+OO      OO
+O        O
+O  OOOO  O
+O  OOOO  O
+  OOOOOO  
+  OOOOOOO 
+
+Energy(200)=-1656
+OOOO  OOOO
+OOO    OOO
+OO  OO  OO
+OO  OO  OO
+OO      OO
+O        O
+O  OOOO  O
+O  OOOO  O
+  OOOOOO  
+  OOOOOOO 
+
+Energy(300)=-1684
+OOOO  OOOO
+OOO    OOO
+OO  OO  OO
+OO  OO  OO
+OO      OO
+O        O
+O  OOOO  O
+O  OOOO  O
+  OOOOOO  
+  OOOOOO  
+
+Energy(400)=-1684
+OOOO  OOOO
+OOO    OOO
+OO  OO  OO
+OO  OO  OO
+OO      OO
+O        O
+O  OOOO  O
+O  OOOO  O
+  OOOOOO  
+  OOOOOO  
+
+Final Energy(470)=-1684
+OOOO  OOOO
+OOO    OOO
+OO  OO  OO
+OO  OO  OO
+OO      OO
+O        O
+O  OOOO  O
+O  OOOO  O
+  OOOOOO  
+  OOOOOO  
+
+OOOO  OOOO
+OOO    OOO
+OO  OO  OO
+OO  OO  OO
+OO      OO
+O        O
+O  OOOO  O
+O  OOOO  O
+  OOOOOO  
+  OOOOOO  
+
